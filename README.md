@@ -4,7 +4,7 @@ This project is licensed under the terms of the MIT [LICENSE](https://github.com
 
 Copyright (c) 2021 MENELAOS PIKRIDAS.
 
-# operational-procedures-basics
+# Operational-Procedures-Basics
 University Assignment Project involving operational procedures in order to model a Software Development Quality Assurance Process using ADONIS 3.0
 Simulations were made in order to check all the steps of the procedures.
 Results of those simulations are written in Greek. 
