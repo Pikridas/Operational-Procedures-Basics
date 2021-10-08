@@ -6,3 +6,5 @@ Copyright (c) 2021 MENELAOS PIKRIDAS.
 
 # operational-procedures-basics
 University Assignment  Project involving operational procedures in order to model a Software Development Quality Assurance Process using ADONIS 3.0
+Operational Procedures are written in Greek Language.
+Documentation of my assigments is written in English language.
